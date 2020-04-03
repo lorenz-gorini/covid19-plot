@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# PyCharm
+.idea/
+# Plots
+*.html
+# Data dump
+*.csv
+
 # Distribution / packaging
 .Python
 build/
